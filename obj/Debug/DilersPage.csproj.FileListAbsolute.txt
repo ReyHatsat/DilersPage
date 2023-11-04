@@ -1,0 +1,172 @@
+E:\OneDrive\Documentos\Proyects\DEVs\DilersPage\bin\DilersPage.dll.config
+E:\OneDrive\Documentos\Proyects\DEVs\DilersPage\bin\DilersPage.dll
+E:\OneDrive\Documentos\Proyects\DEVs\DilersPage\bin\DilersPage.pdb
+E:\OneDrive\Documentos\Proyects\DEVs\DilersPage\bin\roslyn\csc.exe
+E:\OneDrive\Documentos\Proyects\DEVs\DilersPage\bin\roslyn\csc.exe.config
+E:\OneDrive\Documentos\Proyects\DEVs\DilersPage\bin\roslyn\csc.rsp
+E:\OneDrive\Documentos\Proyects\DEVs\DilersPage\bin\roslyn\csi.exe
+E:\OneDrive\Documentos\Proyects\DEVs\DilersPage\bin\roslyn\csi.exe.config
+E:\OneDrive\Documentos\Proyects\DEVs\DilersPage\bin\roslyn\csi.rsp
+E:\OneDrive\Documentos\Proyects\DEVs\DilersPage\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\OneDrive\Documentos\Proyects\DEVs\DilersPage\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\OneDrive\Documentos\Proyects\DEVs\DilersPage\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\OneDrive\Documentos\Proyects\DEVs\DilersPage\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\OneDrive\Documentos\Proyects\DEVs\DilersPage\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\OneDrive\Documentos\Proyects\DEVs\DilersPage\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\OneDrive\Documentos\Proyects\DEVs\DilersPage\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\OneDrive\Documentos\Proyects\DEVs\DilersPage\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\OneDrive\Documentos\Proyects\DEVs\DilersPage\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\OneDrive\Documentos\Proyects\DEVs\DilersPage\bin\roslyn\Microsoft.Managed.Core.targets
+E:\OneDrive\Documentos\Proyects\DEVs\DilersPage\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\OneDrive\Documentos\Proyects\DEVs\DilersPage\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\OneDrive\Documentos\Proyects\DEVs\DilersPage\bin\roslyn\System.AppContext.dll
+E:\OneDrive\Documentos\Proyects\DEVs\DilersPage\bin\roslyn\System.Collections.Immutable.dll
+E:\OneDrive\Documentos\Proyects\DEVs\DilersPage\bin\roslyn\System.Console.dll
+E:\OneDrive\Documentos\Proyects\DEVs\DilersPage\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\OneDrive\Documentos\Proyects\DEVs\DilersPage\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\OneDrive\Documentos\Proyects\DEVs\DilersPage\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\OneDrive\Documentos\Proyects\DEVs\DilersPage\bin\roslyn\System.Globalization.Calendars.dll
+E:\OneDrive\Documentos\Proyects\DEVs\DilersPage\bin\roslyn\System.IO.Compression.dll
+E:\OneDrive\Documentos\Proyects\DEVs\DilersPage\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\OneDrive\Documentos\Proyects\DEVs\DilersPage\bin\roslyn\System.IO.FileSystem.dll
+E:\OneDrive\Documentos\Proyects\DEVs\DilersPage\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\OneDrive\Documentos\Proyects\DEVs\DilersPage\bin\roslyn\System.Net.Http.dll
+E:\OneDrive\Documentos\Proyects\DEVs\DilersPage\bin\roslyn\System.Net.Sockets.dll
+E:\OneDrive\Documentos\Proyects\DEVs\DilersPage\bin\roslyn\System.Reflection.Metadata.dll
+E:\OneDrive\Documentos\Proyects\DEVs\DilersPage\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\OneDrive\Documentos\Proyects\DEVs\DilersPage\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\OneDrive\Documentos\Proyects\DEVs\DilersPage\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\OneDrive\Documentos\Proyects\DEVs\DilersPage\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\OneDrive\Documentos\Proyects\DEVs\DilersPage\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\OneDrive\Documentos\Proyects\DEVs\DilersPage\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\OneDrive\Documentos\Proyects\DEVs\DilersPage\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\OneDrive\Documentos\Proyects\DEVs\DilersPage\bin\roslyn\System.ValueTuple.dll
+E:\OneDrive\Documentos\Proyects\DEVs\DilersPage\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\OneDrive\Documentos\Proyects\DEVs\DilersPage\bin\roslyn\System.Xml.XmlDocument.dll
+E:\OneDrive\Documentos\Proyects\DEVs\DilersPage\bin\roslyn\System.Xml.XPath.dll
+E:\OneDrive\Documentos\Proyects\DEVs\DilersPage\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\OneDrive\Documentos\Proyects\DEVs\DilersPage\bin\roslyn\vbc.exe
+E:\OneDrive\Documentos\Proyects\DEVs\DilersPage\bin\roslyn\vbc.exe.config
+E:\OneDrive\Documentos\Proyects\DEVs\DilersPage\bin\roslyn\vbc.rsp
+E:\OneDrive\Documentos\Proyects\DEVs\DilersPage\bin\roslyn\VBCSCompiler.exe
+E:\OneDrive\Documentos\Proyects\DEVs\DilersPage\bin\roslyn\VBCSCompiler.exe.config
+E:\OneDrive\Documentos\Proyects\DEVs\DilersPage\bin\Antlr3.Runtime.dll
+E:\OneDrive\Documentos\Proyects\DEVs\DilersPage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\OneDrive\Documentos\Proyects\DEVs\DilersPage\bin\Microsoft.Web.Infrastructure.dll
+E:\OneDrive\Documentos\Proyects\DEVs\DilersPage\bin\Newtonsoft.Json.dll
+E:\OneDrive\Documentos\Proyects\DEVs\DilersPage\bin\System.Web.Helpers.dll
+E:\OneDrive\Documentos\Proyects\DEVs\DilersPage\bin\System.Web.Mvc.dll
+E:\OneDrive\Documentos\Proyects\DEVs\DilersPage\bin\System.Web.Optimization.dll
+E:\OneDrive\Documentos\Proyects\DEVs\DilersPage\bin\System.Web.Razor.dll
+E:\OneDrive\Documentos\Proyects\DEVs\DilersPage\bin\System.Web.WebPages.Deployment.dll
+E:\OneDrive\Documentos\Proyects\DEVs\DilersPage\bin\System.Web.WebPages.dll
+E:\OneDrive\Documentos\Proyects\DEVs\DilersPage\bin\System.Web.WebPages.Razor.dll
+E:\OneDrive\Documentos\Proyects\DEVs\DilersPage\bin\WebGrease.dll
+E:\OneDrive\Documentos\Proyects\DEVs\DilersPage\bin\System.Web.Helpers.xml
+E:\OneDrive\Documentos\Proyects\DEVs\DilersPage\bin\System.Web.Mvc.xml
+E:\OneDrive\Documentos\Proyects\DEVs\DilersPage\bin\System.Web.Optimization.xml
+E:\OneDrive\Documentos\Proyects\DEVs\DilersPage\bin\System.Web.Razor.xml
+E:\OneDrive\Documentos\Proyects\DEVs\DilersPage\bin\System.Web.WebPages.xml
+E:\OneDrive\Documentos\Proyects\DEVs\DilersPage\bin\System.Web.WebPages.Deployment.xml
+E:\OneDrive\Documentos\Proyects\DEVs\DilersPage\bin\System.Web.WebPages.Razor.xml
+E:\OneDrive\Documentos\Proyects\DEVs\DilersPage\bin\Newtonsoft.Json.xml
+E:\OneDrive\Documentos\Proyects\DEVs\DilersPage\bin\Antlr3.Runtime.pdb
+E:\OneDrive\Documentos\Proyects\DEVs\DilersPage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\OneDrive\Documentos\Proyects\DEVs\DilersPage\bin\es\System.Web.Helpers.resources.dll
+E:\OneDrive\Documentos\Proyects\DEVs\DilersPage\bin\es\System.Web.Mvc.resources.dll
+E:\OneDrive\Documentos\Proyects\DEVs\DilersPage\bin\es\System.Web.Optimization.resources.dll
+E:\OneDrive\Documentos\Proyects\DEVs\DilersPage\bin\es\System.Web.Razor.resources.dll
+E:\OneDrive\Documentos\Proyects\DEVs\DilersPage\bin\es\System.Web.WebPages.resources.dll
+E:\OneDrive\Documentos\Proyects\DEVs\DilersPage\bin\es\System.Web.WebPages.Deployment.resources.dll
+E:\OneDrive\Documentos\Proyects\DEVs\DilersPage\bin\es\System.Web.WebPages.Razor.resources.dll
+E:\OneDrive\Documentos\Proyects\DEVs\DilersPage\obj\Debug\DilersPage.csproj.CoreCompileInputs.cache
+E:\OneDrive\Documentos\Proyects\DEVs\DilersPage\obj\Debug\DilersPage.csproj.CopyComplete
+E:\OneDrive\Documentos\Proyects\DEVs\DilersPage\obj\Debug\DilersPage.dll
+E:\OneDrive\Documentos\Proyects\DEVs\DilersPage\obj\Debug\DilersPage.pdb
+E:\OneDrive\Documentos\Proyects\DEVs\DilersPage\obj\Debug\DilersPage.csproj.AssemblyReference.cache
+E:\Downloads\Recopilacion proyectos\DilersPage\bin\DilersPage.dll.config
+E:\Downloads\Recopilacion proyectos\DilersPage\bin\DilersPage.dll
+E:\Downloads\Recopilacion proyectos\DilersPage\bin\DilersPage.pdb
+E:\Downloads\Recopilacion proyectos\DilersPage\bin\roslyn\csc.exe
+E:\Downloads\Recopilacion proyectos\DilersPage\bin\roslyn\csc.exe.config
+E:\Downloads\Recopilacion proyectos\DilersPage\bin\roslyn\csc.rsp
+E:\Downloads\Recopilacion proyectos\DilersPage\bin\roslyn\csi.exe
+E:\Downloads\Recopilacion proyectos\DilersPage\bin\roslyn\csi.exe.config
+E:\Downloads\Recopilacion proyectos\DilersPage\bin\roslyn\csi.rsp
+E:\Downloads\Recopilacion proyectos\DilersPage\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Downloads\Recopilacion proyectos\DilersPage\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Downloads\Recopilacion proyectos\DilersPage\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Downloads\Recopilacion proyectos\DilersPage\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Downloads\Recopilacion proyectos\DilersPage\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Downloads\Recopilacion proyectos\DilersPage\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Downloads\Recopilacion proyectos\DilersPage\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Downloads\Recopilacion proyectos\DilersPage\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Downloads\Recopilacion proyectos\DilersPage\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Downloads\Recopilacion proyectos\DilersPage\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Downloads\Recopilacion proyectos\DilersPage\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Downloads\Recopilacion proyectos\DilersPage\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Downloads\Recopilacion proyectos\DilersPage\bin\roslyn\System.AppContext.dll
+E:\Downloads\Recopilacion proyectos\DilersPage\bin\roslyn\System.Collections.Immutable.dll
+E:\Downloads\Recopilacion proyectos\DilersPage\bin\roslyn\System.Console.dll
+E:\Downloads\Recopilacion proyectos\DilersPage\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Downloads\Recopilacion proyectos\DilersPage\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Downloads\Recopilacion proyectos\DilersPage\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Downloads\Recopilacion proyectos\DilersPage\bin\roslyn\System.Globalization.Calendars.dll
+E:\Downloads\Recopilacion proyectos\DilersPage\bin\roslyn\System.IO.Compression.dll
+E:\Downloads\Recopilacion proyectos\DilersPage\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Downloads\Recopilacion proyectos\DilersPage\bin\roslyn\System.IO.FileSystem.dll
+E:\Downloads\Recopilacion proyectos\DilersPage\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Downloads\Recopilacion proyectos\DilersPage\bin\roslyn\System.Net.Http.dll
+E:\Downloads\Recopilacion proyectos\DilersPage\bin\roslyn\System.Net.Sockets.dll
+E:\Downloads\Recopilacion proyectos\DilersPage\bin\roslyn\System.Reflection.Metadata.dll
+E:\Downloads\Recopilacion proyectos\DilersPage\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Downloads\Recopilacion proyectos\DilersPage\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Downloads\Recopilacion proyectos\DilersPage\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Downloads\Recopilacion proyectos\DilersPage\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Downloads\Recopilacion proyectos\DilersPage\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Downloads\Recopilacion proyectos\DilersPage\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Downloads\Recopilacion proyectos\DilersPage\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Downloads\Recopilacion proyectos\DilersPage\bin\roslyn\System.ValueTuple.dll
+E:\Downloads\Recopilacion proyectos\DilersPage\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Downloads\Recopilacion proyectos\DilersPage\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Downloads\Recopilacion proyectos\DilersPage\bin\roslyn\System.Xml.XPath.dll
+E:\Downloads\Recopilacion proyectos\DilersPage\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Downloads\Recopilacion proyectos\DilersPage\bin\roslyn\vbc.exe
+E:\Downloads\Recopilacion proyectos\DilersPage\bin\roslyn\vbc.exe.config
+E:\Downloads\Recopilacion proyectos\DilersPage\bin\roslyn\vbc.rsp
+E:\Downloads\Recopilacion proyectos\DilersPage\bin\roslyn\VBCSCompiler.exe
+E:\Downloads\Recopilacion proyectos\DilersPage\bin\roslyn\VBCSCompiler.exe.config
+E:\Downloads\Recopilacion proyectos\DilersPage\bin\Antlr3.Runtime.dll
+E:\Downloads\Recopilacion proyectos\DilersPage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Downloads\Recopilacion proyectos\DilersPage\bin\Microsoft.Web.Infrastructure.dll
+E:\Downloads\Recopilacion proyectos\DilersPage\bin\Newtonsoft.Json.dll
+E:\Downloads\Recopilacion proyectos\DilersPage\bin\System.Web.Helpers.dll
+E:\Downloads\Recopilacion proyectos\DilersPage\bin\System.Web.Mvc.dll
+E:\Downloads\Recopilacion proyectos\DilersPage\bin\System.Web.Optimization.dll
+E:\Downloads\Recopilacion proyectos\DilersPage\bin\System.Web.Razor.dll
+E:\Downloads\Recopilacion proyectos\DilersPage\bin\System.Web.WebPages.Deployment.dll
+E:\Downloads\Recopilacion proyectos\DilersPage\bin\System.Web.WebPages.dll
+E:\Downloads\Recopilacion proyectos\DilersPage\bin\System.Web.WebPages.Razor.dll
+E:\Downloads\Recopilacion proyectos\DilersPage\bin\WebGrease.dll
+E:\Downloads\Recopilacion proyectos\DilersPage\bin\System.Web.Helpers.xml
+E:\Downloads\Recopilacion proyectos\DilersPage\bin\System.Web.Mvc.xml
+E:\Downloads\Recopilacion proyectos\DilersPage\bin\System.Web.Optimization.xml
+E:\Downloads\Recopilacion proyectos\DilersPage\bin\System.Web.Razor.xml
+E:\Downloads\Recopilacion proyectos\DilersPage\bin\System.Web.WebPages.xml
+E:\Downloads\Recopilacion proyectos\DilersPage\bin\System.Web.WebPages.Deployment.xml
+E:\Downloads\Recopilacion proyectos\DilersPage\bin\System.Web.WebPages.Razor.xml
+E:\Downloads\Recopilacion proyectos\DilersPage\bin\Newtonsoft.Json.xml
+E:\Downloads\Recopilacion proyectos\DilersPage\bin\Antlr3.Runtime.pdb
+E:\Downloads\Recopilacion proyectos\DilersPage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Downloads\Recopilacion proyectos\DilersPage\bin\es\System.Web.Helpers.resources.dll
+E:\Downloads\Recopilacion proyectos\DilersPage\bin\es\System.Web.Mvc.resources.dll
+E:\Downloads\Recopilacion proyectos\DilersPage\bin\es\System.Web.Optimization.resources.dll
+E:\Downloads\Recopilacion proyectos\DilersPage\bin\es\System.Web.Razor.resources.dll
+E:\Downloads\Recopilacion proyectos\DilersPage\bin\es\System.Web.WebPages.resources.dll
+E:\Downloads\Recopilacion proyectos\DilersPage\bin\es\System.Web.WebPages.Deployment.resources.dll
+E:\Downloads\Recopilacion proyectos\DilersPage\bin\es\System.Web.WebPages.Razor.resources.dll
+E:\Downloads\Recopilacion proyectos\DilersPage\obj\Debug\DilersPage.csproj.AssemblyReference.cache
+E:\Downloads\Recopilacion proyectos\DilersPage\obj\Debug\DilersPage.csproj.CoreCompileInputs.cache
+E:\Downloads\Recopilacion proyectos\DilersPage\obj\Debug\DilersPage.csproj.CopyComplete
+E:\Downloads\Recopilacion proyectos\DilersPage\obj\Debug\DilersPage.dll
+E:\Downloads\Recopilacion proyectos\DilersPage\obj\Debug\DilersPage.pdb

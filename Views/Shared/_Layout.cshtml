@@ -1,0 +1,43 @@
+﻿<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Diler web page... Probably</title>
+    <link id="favicon" rel="shortcut icon" type="image/png" href="~/Assets/Ico/ico01.ico" />
+    <link rel="stylesheet" href="~/Content/Layout_style.css">
+    <link rel="stylesheet" href="~/Content/custom-button.css">
+    @Scripts.Render("~/Scripts/Layout_JS.js")
+    @Scripts.Render("~/Scripts/jquery-3.6.4.min.js")
+</head>
+<body>
+    <div id="fullpage">
+        <header>
+            <nav>
+                <div id="fp-nav">
+                    <ul>
+                        <li>
+                            <a href='#s1' class="custom-btn btn-16">About me</a>
+                        </li>
+                        <li>
+                            <a href='#s2' class="custom-btn btn-16">Sección 2</a>
+                        </li>
+                        <li>
+                            <a href='#s3' class="custom-btn btn-16">Redes</a>
+                        </li>
+                        <li>
+                            <a href='#s3' class="custom-btn btn-16">Amigos</a>
+                        </li>
+                    </ul>
+                </div>
+            </nav>
+            <div id="s1">
+                <img id="imgheader" onmouseover="changeImg(this)" src="~/Assets/Img/header.png">
+            </div>
+        </header>
+        <div id="screContainer">
+            
+        </div>
+        @RenderBody()
+    </div>
+</body>
+</html>
